@@ -14,7 +14,7 @@
 	<name>10-SpringBoot-PDF-Export</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
